@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+}
+.header{
+	text-align: center;
+	border: none;
+}
+form.signin{
+	background-color: orange;
+	text-align: center;
+}
+fieldset{
+	text-align: center;
+}
